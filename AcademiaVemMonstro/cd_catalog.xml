@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CATALOG>
+
+<CD id='bike'>
+<AULA>Bike</AULA>
+<PROFESSOR>Leandro</PROFESSOR>
+<HORARIO>7:00 - 8:00</HORARIO>
+<LOCAL>2º andar</LOCAL>
+</CD>
+
+<CD id='muaythai'>
+<AULA>Muay Thai</AULA>
+<PROFESSOR>Daniel</PROFESSOR>
+<HORARIO>19:00 - 20:00</HORARIO>
+<LOCAL>1º andar</LOCAL>
+</CD>
+
+<CD id='danca'>
+<AULA>Dança</AULA>
+<PROFESSOR>Priscila</PROFESSOR>
+<HORARIO>19:00 - 20:00</HORARIO>
+<LOCAL>2º andar</LOCAL>
+</CD>
+
+<CD id='judo'>
+<AULA>Judô</AULA>
+<PROFESSOR>Alex</PROFESSOR>
+<HORARIO>14:40 - 16:00</HORARIO>
+<LOCAL>3º andar</LOCAL>
+</CD>
+
+<CD id='jump'>
+<AULA>Jump</AULA>
+<PROFESSOR>Carla</PROFESSOR>
+<HORARIO>7:30 - 8:20</HORARIO>
+<LOCAL>1º andar</LOCAL>
+</CD>
+
+<CD id='kravmaga'>
+<AULA>Krav-Maga</AULA>
+<PROFESSOR>Paulo</PROFESSOR>
+<HORARIO>21:00 - 22:00</HORARIO>
+<LOCAL>3º andar</LOCAL>
+</CD>
+
+<CD id='jiujitsu'>
+<AULA>Jiu-jitsu</AULA>
+<PROFESSOR>Amanda</PROFESSOR>
+<HORARIO>16:00 - 17:40</HORARIO>
+<LOCAL>2º andar</LOCAL>
+</CD>
+</CATALOG>
